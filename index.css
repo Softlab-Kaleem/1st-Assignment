@@ -1,0 +1,17 @@
+.A1 {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.A2 {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    text-indent: 10px;
+}
+
+.A3 {
+    word-spacing: 5px;
+}
